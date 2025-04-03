@@ -1,2 +1,2 @@
 # myportfolio
-author - Animesh ku Swain
+author - Animesh kumar Swain
